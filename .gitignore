@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+real_multiomics.csv
+mock_multiomics.csv
+.pytest_cache/
+venv/
+__pycache__/
+*.pyc
+real_multiomics.csv
+mock_multiomics.csv
+.pytest_cache/
